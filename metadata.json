@@ -1,0 +1,6 @@
+{
+  "name": "Ludo Master",
+  "description": "A polished, responsive Ludo board game for 2-4 players with animated movement and real-time turn tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
